@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background: #111;
+  overflow-x: hidden;
+}
+
+#book {
+  width: 90vw;
+  height: 80vh;
+  margin: auto;
+}
+
+.page {
+  background: #fff;
+}
+
+.page img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+@media (max-width: 768px) {
+  #book {
+    width: 100vw;
+    height: 90vh;
+  }
+}

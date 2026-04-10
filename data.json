@@ -1,0 +1,12 @@
+{
+  "books": [
+    {
+      "title": "Sample Book",
+      "pages": [
+        "books/book1/1.jpg",
+        "books/book1/2.jpg",
+        "books/book1/3.jpg"
+      ]
+    }
+  ]
+}
