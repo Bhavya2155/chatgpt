@@ -1,0 +1,3 @@
+/* This file is intentionally left blank.
+   The Javascript logic has been migrated to React hooks inside app.jsx.
+*/
